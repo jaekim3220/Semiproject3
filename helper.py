@@ -591,10 +591,11 @@ def spearman_r(df, isPrint=True):
     rdf = DataFrame(data)
     rdf.set_index('fields', inplace=True)
 
-    if isPrint:
-        prettyPrint(rdf)
-    else:
-        return rdf
+    # if isPrint:
+    #     prettyPrint(rdf)
+    # else:
+    #     return rdf
+    return rdf
 
 
 # 회귀분석 결과를 위한 class
