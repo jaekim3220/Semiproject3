@@ -1,14 +1,14 @@
 # 세미프로젝트3
 
-# Coworker
-https://github.com/jagara101
-https://github.com/hajinseok11
+# Coworkers
+https://github.com/jagara101, https://github.com/hajinseok11
+
 
 ## 데이터 분석을 위한 (종속/독립)변수를 추출하고 전처리(결측치, 이상치 정제)와 다양한 가설을 검정하고 시각화를 진행
 
 # 필수
 - 데이터 수집
-- DF 타입 확인
+- Data 타입 확인
 - 기초통계량 확인(describe)
 - 결측치/이상치 확인 및 정제
     - 레그플롯(이상치확인)
